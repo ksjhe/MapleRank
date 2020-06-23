@@ -1,7 +1,7 @@
 # MapleRank : An exploratory analysis on the popularity of jobs in Global MapleStory
 
 ## Introduction
-Maplestory has been a popular MMORPG in the early-mid 2000's. Despite its dwindling popularity, it's one of the games I always return to every semester break. One of the big questions that a lot of people have and one that I ask quite frequently to my friends is "What job should I play?"; this question, combined with me recently learning web scraping has led me to find the data myself to answer plaer behaviour on choosing jobs and worlds. 
+Maplestory has been a popular MMORPG in the early-mid 2000's. Despite its dwindling popularity, it's one of the games I always return to every semester break. One of the big questions that a lot of people have and one that I ask quite frequently to my friends is "What job should I play?"; this question, combined with me recently learning web scraping has led me to find the data myself to look at player behaviour on choosing jobs and worlds. 
 
 In this Exploratory Analysis we will answer the questions of:
 - What jobs are popular?
