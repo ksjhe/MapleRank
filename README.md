@@ -1,5 +1,14 @@
 # MapleRank : An exploratory analysis on the popularity of jobs in Global MapleStory
 
+## Table of Contents
+* [Introduction](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#introduction)
+* [Findings](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#findings)
+    * [World Data](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#world-data)
+    * [Level Data](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#level-data)
+    * [Class Data](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#class-data)
+* [In Depth Analysis](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#extra-analysis)
+* [Data Set](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#data-set)
+
 ## Introduction
 Maplestory has been a popular MMORPG in the early-mid 2000's. Despite its dwindling popularity, it's one of the games I always return to every semester break. One of the big questions that a lot of people have and one that I ask quite frequently to my friends is "What job should I play?"; this question, combined with me recently learning web scraping has led me to find the data myself to look at player behaviour on choosing jobs and worlds. 
 
@@ -32,7 +41,7 @@ Finally, we take a closer look at what jobs players tend to play more. Kannas te
 Bonus! For hardcore players hoping to be the first to hit cap level in their world, many jobs still don't have a level 275 in their world! Reboot has most characters up to level cap, in the normal worlds, rankings are still up for grabs for multiple different jobs.
 
 ## Extra Analysis 
-For a more indepth analysis of player data and more graphs showing the spread of jobs and worlds check out my notebook ![here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Maplestory%20Analysis.ipynb). In there you'll find my code and more in depth commentary of my findings.
+For a more indepth analysis of player data and more graphs showing the spread of jobs and worlds check out my notebook [here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Maplestory%20Analysis.ipynb). In there you'll find my code and more in depth commentary of my findings.
 
-## Data set
-Feel free to use my collected data ![here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Maplestory%20Rank%20Data.csv) . I gathered the data using a web scraper that took down the rankings of players on the official MapleStory site. Characters data up to level 203 were collected, but only level 205 and above characters were present for this analysis. This data was last updated on June 14. For summary statistics of different Jobs in each world click ![here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Summary%20Statistics.csv)
+## Data Set
+Feel free to use my collected data [here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Maplestory%20Rank%20Data.csv) . I gathered the data using a web scraper that took down the rankings of players on the official MapleStory site. Characters data up to level 203 were collected, but only level 205 and above characters were present for this analysis. This data was last updated on June 14. For summary statistics of different Jobs in each world click [here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Summary%20Statistics.csv)
