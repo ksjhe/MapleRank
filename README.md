@@ -40,7 +40,7 @@ Finally, we take a closer look at what jobs players tend to play more. Kannas te
 ![](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Graphs/Max%20Level%20per%20world.png)
 Bonus! For hardcore players hoping to be the first to hit cap level in their world, many jobs still don't have a level 275 in their world! Reboot has most characters up to level cap, in the normal worlds, rankings are still up for grabs for multiple different jobs.
 
-## Extra Analysis 
+## In Depth Analysis
 For a more indepth analysis of player data and more graphs showing the spread of jobs and worlds check out my notebook [here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Maplestory%20Analysis.ipynb). In there you'll find my code and more in depth commentary of my findings.
 
 ## Data Set
