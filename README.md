@@ -1,4 +1,4 @@
-# MapleRank : An exploratory analysis on the popularity of jobs in Global MapleStory
+# MapleRank : An Exploratory Analysis on the Popularity of Jobs in Global MapleStory
 
 ## Table of Contents
 * [Introduction](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#introduction)
