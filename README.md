@@ -6,7 +6,7 @@
     * [World Data](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#world-data)
     * [Level Data](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#level-data)
     * [Class Data](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#class-data)
-* [In Depth Analysis](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#extra-analysis)
+* [In Depth Analysis](https://github.com/kaishuun/MapleRank#in-depth-analysis)
 * [Data Set](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis#data-set)
 
 ## Introduction
