@@ -44,5 +44,7 @@ For hardcore players hoping to be the first to hit cap level in their world, man
 ## In Depth Analysis
 For a more in-depth analysis of player data and more graphs showing the spread of jobs and worlds check out my notebook [here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Maplestory%20Analysis.ipynb) . In there you'll find my code and more in-depth commentary of my findings.
 
+As well, for an interactive visualization click [here](https://public.tableau.com/profile/kevin3333#!/vizhome/MaplestoryExploratoryAnalysis/Dashboard1?publish=yes) to access the Tableau Dashboard for this project
+
 ## Data Set
 Feel free to use my collected data [here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Maplestory%20Rank%20Data.csv) . I gathered the data using a web scraper that took down the rankings of players on the official MapleStory site. Character data up to level 203 were collected, but only level 205 and above characters were present for this analysis. This data was last updated on June 14. For summary statistics of different Jobs in each world click [here](https://github.com/kaishuun/Maplestory-Rankings-Exploratory-Analysis/blob/master/Summary%20Statistics.csv).
